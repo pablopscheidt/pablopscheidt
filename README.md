@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pablo 👋
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning more about JavaScript
+- 🌱 I’m currently learning about JavaScript
 
 <div align="center">
   <a href="https://github.com/pablopscheidt">
