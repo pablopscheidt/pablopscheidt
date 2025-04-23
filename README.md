@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablopscheidt-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablopscheidt/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pablopscheidt.dev-9cf?style=flat-square&logo=google-chrome)](https://pablopscheidt.dev)
-[![Email](https://img.shields.io/badge/Email-pablopscheidt@gmail.com-red?style=flat-square&logo=gmail)](mailto:pablobngpscheidt@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pablobngpscheidt@gmail.com-red?style=flat-square&logo=gmail)](mailto:pablobngpscheidt@gmail.com)
 
 ---
 
