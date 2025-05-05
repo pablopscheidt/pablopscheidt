@@ -54,7 +54,7 @@ I'm a passionate **Front-end Developer** currently pursuing a **Bachelor's degre
 
 - **LinkedIn:** [linkedin.com/in/pablopscheidt/](https://www.linkedin.com/in/pablopscheidt/)
 - **Portfolio:** [pablopscheidt.dev](https://pablopscheidt.dev)
-- **Email:** [pablopscheidt@example.com](mailto:pablobngpscheidt@gmail.com)
+- **Email:** [pablobngpscheidt@gmail.com](mailto:pablobngpscheidt@gmail.com)
 
 ---
 
